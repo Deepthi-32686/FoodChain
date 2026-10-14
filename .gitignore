@@ -1,0 +1,10 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Eclipse specific files that can be regenerated (keep .project and .classpath)
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
